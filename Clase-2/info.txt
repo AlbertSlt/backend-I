@@ -1,0 +1,1 @@
+extension turbo console log: Selecciono una variable y aprieto ctrl alt l y me hace el console log solo y con un rocketito
